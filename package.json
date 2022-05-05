@@ -1,5 +1,5 @@
 {
-  "name": "FoodMe",
+  "name": "PANDICA",
   "version": "0.0.1",
   "description": "Super awesome tutorial.",
   "keywords": [],
@@ -29,8 +29,8 @@
     "open": ">= 0.0.2",
     "testacular": "canary"
   },
-  "engines" : { 
-    "node": ">=12.0.0" 
+  "engines": {
+    "node": ">=12.0.0"
   },
   "license": "MIT"
 }
